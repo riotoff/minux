@@ -1,0 +1,2 @@
+# minux
+Minimalistic linux distribution
